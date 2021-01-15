@@ -1,5 +1,5 @@
 # awesome-svelte-components
-a list of awesome svelte components 🔥
+🔥 a list of awesome svelte components to help you sort through the 💩
 | Category    | Name                     | Author                                                                           | Description                       |
 |-------------|--------------------------|----------------------------------------------------------------------------------|-----------------------------------|
 | Auth        | svelte-auth0             | [dopry](https://github.com/dopry/svelte-auth0)                                 | Svelte Auth0 Components           |
