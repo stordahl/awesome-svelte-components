@@ -1,7 +1,7 @@
 # awesome-svelte-components
 🔥 a list of awesome svelte components to help you sort through the 💩
-| Category    | Name                     | Author                                                                           | Description                       |
-|-------------|--------------------------|----------------------------------------------------------------------------------|-----------------------------------|
+| Category    | Name                     | Author                                                                         | Description                       |
+|-------------|--------------------------|--------------------------------------------------------------------------------|-----------------------------------|
 | Auth        | svelte-auth0             | [dopry](https://github.com/dopry/svelte-auth0)                                 | Svelte Auth0 Components           |
 | Data Mgmt   | svelte-seo               | [artiebits](https://github.com/artiebits/svelte-seo)                           | A plugin that makes managing your SEO easier in Svelte and Sapper projects. |
 |             | micro-graphql-svelte     | [arackaf](https://github.com/arackaf/micro-graphql-svelte)                     | Light and simple GraphQL Svelte client with extensible, composable cache invalidation.  |
@@ -9,6 +9,7 @@
 | DOM         | svelte-select            | [rob-balfre](https://github.com/rob-balfre/svelte-select)                      | A select component for Svelte apps|
 |             | svelte-carousel          | [beyonk](https://github.com/beyonk-adventures/svelte-carousel)                 | A super lightweight, super simple Carousel for Svelte 3 |
 |             | svelte-simple-modal      | [flekschas](https://github.com/flekschas/svelte-simple-modal)                  | A simple, small, and content-agnostic modal for Svelte v3 |
+|             | svelte-scoller           | [Svelte Core Team](https://github.com/sveltejs/svelte-scroller)                | A <Scroller> component for Svelte apps |
 |             | svelte-tags-input        | [agustinl](https://github.com/agustinl/svelte-tags-input)                      | Svelte tags input is a component to use with Svelte and easily enter tags and customize some options |
 | Icons       | svelte-icons             | [AnxiousDarkly](https://github.com/AnxiousDarkly/svelte-icons)                 | Icon components for svelte |
 | Routing     | svelte-spa-router        | [ItalyPaleAle](https://github.com/ItalyPaleAle/svelte-spa-router)              | Router for SPAs using Svelte 3 |
