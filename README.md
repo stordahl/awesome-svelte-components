@@ -7,6 +7,7 @@
 |             | micro-graphql-svelte     | [arackaf](https://github.com/arackaf/micro-graphql-svelte)                     | Light and simple GraphQL Svelte client with extensible, composable cache invalidation.  |
 |             | svelte-apollo            | [timhall](https://github.com/timhall/svelte-apollo)                            | Svelte integration for Apollo GraphQL |
 | DOM         | svelte-select            | [rob-balfre](https://github.com/rob-balfre/svelte-select)                      | A select component for Svelte apps|
+|             | svelte-loading-spinners  | [Schum123](https://github.com/Schum123/svelte-loading-spinners)                | A collection of loading spinner components for SvelteJs |
 |             | svelte-carousel          | [beyonk](https://github.com/beyonk-adventures/svelte-carousel)                 | A super lightweight, super simple Carousel for Svelte 3 |
 |             | svelte-simple-modal      | [flekschas](https://github.com/flekschas/svelte-simple-modal)                  | A simple, small, and content-agnostic modal for Svelte v3 |
 |             | svelte-scoller           | [Svelte Core Team](https://github.com/sveltejs/svelte-scroller)                | A <Scroller> component for Svelte apps |
